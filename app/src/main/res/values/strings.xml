@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MillonariosBETA</string>
+    <string name="title_activity_main_registro">MainRegistro</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
